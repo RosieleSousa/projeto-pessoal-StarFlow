@@ -1,7 +1,6 @@
 # projeto-pessoal-StarFlow
 # 🌟 StarFlow - Plataforma de Animes e Doramas  
 
-![StarFlow Banner](./img-2/banner.jpg)  
 
 ## 📌 Sobre o Projeto  
 O **StarFlow** é uma plataforma web dedicada a fãs de **animes e doramas**, proporcionando informações sobre filmes e séries, incluindo **sinopses, avaliações e detalhes técnicos**.  
