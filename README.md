@@ -10,8 +10,8 @@ O projeto tem como objetivo oferecer uma experiência **visual e interativa**, u
 ## 🚀 Tecnologias Utilizadas  
 O projeto foi desenvolvido utilizando as seguintes tecnologias:  
 
-- **HTML5** → Estruturação da página  
-- **CSS3** → Estilização e design responsivo  
+- **HTML** → Estruturação da página  
+- **CSS** → Estilização e design responsivo  
 - **JavaScript** → Funcionalidades interativas (ex: carrossel de imagens)  
 
 
