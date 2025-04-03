@@ -14,5 +14,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **CSS3** → Estilização e design responsivo  
 - **JavaScript** → Funcionalidades interativas (ex: carrossel de imagens)  
 
-## 📂 Estrutura do Projeto  
 
+## 📌 Funcionalidades  
+✔ Exibição de **sinopses e avaliações** de animes e doramas.  
+✔ **Carrossel de imagens interativo** para navegar entre os filmes.  
+✔ **Design responsivo** para diferentes dispositivos.  
+✔ **Efeitos visuais modernos**, incluindo fundo dinâmico e animações.  
